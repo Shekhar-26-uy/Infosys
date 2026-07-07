@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+numpy
+bcrypt
+pymongo
+python-dotenv
+email-validator
+streamlit-option-menu
